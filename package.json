@@ -1,0 +1,23 @@
+{
+  "name": "sprite-packer-example",
+  "version": "0.0.0",
+  "description": "sprite-packer-example =====================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/renancouto/sprite-packer-example.git"
+  },
+  "author": "Renan Couto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/renancouto/sprite-packer-example/issues"
+  },
+  "homepage": "https://github.com/renancouto/sprite-packer-example",
+  "devDependencies": {
+    "grunt": "~0.4.2",
+    "grunt-sprite-packer": "~0.1.5"
+  }
+}
